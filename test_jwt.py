@@ -1,7 +1,7 @@
 import requests
 from requests.exceptions import JSONDecodeError, ConnectionError
 
-base_url = "http://127.0.0.1:5000/hello"
+base_url = "http://127.0.0.1:5000"
 
 # ==========================================
 # FUNÇÃO AUXILIAR
